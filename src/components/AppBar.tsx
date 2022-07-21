@@ -80,12 +80,12 @@ function AppBar(): JSX.Element {
                                                     {i18n._(t`Yield`)}
                                                 </NavLink>
                                             )} */}
-                                            {chainId &&
+                                            {/* {chainId &&
                                                 [ChainId.RINKEBY].includes(chainId) && (
                                                 <NavLink id={`sushibar-nav-link`} to={'/Sikubar'}>
                                                     {i18n._(t`SikuBar`)}
                                                 </NavLink>
-                                            )}
+                                            )} */}
                                             {/* {chainId &&
                                                 [ChainId.MAINNET, ChainId.KOVAN, ChainId.BSC, ChainId.MATIC].includes(
                                                     chainId

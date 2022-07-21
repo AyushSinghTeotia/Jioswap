@@ -80,9 +80,9 @@ function Routes(): JSX.Element {
             )}
 
             {/* Sikubar Staking */}
-            {(chainId === ChainId.MAINNET || chainId === ChainId.MATIC || chainId === ChainId.RINKEBY || chainId === ChainId.BSC) && ( 
+            {/* {(chainId === ChainId.MAINNET || chainId === ChainId.MATIC || chainId === ChainId.RINKEBY || chainId === ChainId.BSC) && ( 
             <Route exact strict path="/Sikubar" component={SushiBar} />
-            )}
+            )} */}
             {(chainId === ChainId.MAINNET || chainId === ChainId.MATIC || chainId === ChainId.RINKEBY || chainId === ChainId.BSC) && (
                 <Route exact strict path="/sushibar/transactions" component={SushiBarTransactions} />
             )}
