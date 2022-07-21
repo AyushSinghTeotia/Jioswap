@@ -35,30 +35,35 @@ input:focus {
   width: 25px;
   height: 25px;
   border-radius: 25px;
-  background: #FA52A0;
+  background: #2dabd4;
   cursor: pointer;
 }
 .bg-dark-900 {
-  background-color: #270c33 !important;
+  background-color: #fff !important;
 }
 .bg-dark-800 {
-  background-color: #1c0826 !important;
+  background-color: #0e76b8!important;
 }
 .bg-dark-600 {
-  background-color: #270c33 !important;
+  background-color: #fff !important;
   /* color: #5d5d5d !important; */
   color: #dc3c3b !important;
 }
 .bg-dark-650 {
-  background-color: #1c0826 !important;
+  background-color: #0e76b8!important;
 }
 .bg-dark-750 {
   background: e36 !important;
-  color: white;
+  color: #0e76b8;
 }
 .eBzJQr, .IMDAt{
-  background: #ff17ad !important;
+  background: #0873b6 !important;
   border: 1px solid #376bad70 !important;
   padding: 10px !important;
 }
-
+#create-pool-button{
+  color: white;
+}
+#swap-nav-link{
+  color: #0873b6;
+}
