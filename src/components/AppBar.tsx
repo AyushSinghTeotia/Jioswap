@@ -293,7 +293,7 @@ function AppBar(): JSX.Element {
                                             library &&
                                             library.provider.isMetaMask && (
                                                 <>
-                                                    <QuestionHelper text={i18n._(t`Add Siku to your Metamask wallet`)}>
+                                                    <QuestionHelper text={i18n._(t`Add Jio to your Metamask wallet`)}>
                                                         <div
                                                             className="hidden sm:inline-block rounded-md bg-dark-900 hover:bg-dark-800 cursor-pointer"
                                                             onClick={() => {
@@ -320,7 +320,7 @@ function AppBar(): JSX.Element {
                                                                     type: 'ERC20',
                                                                     options: {
                                                                         address: address,
-                                                                        symbol: 'Siku',
+                                                                        symbol: 'JIO',
                                                                         decimals: 18,
                                                                         image:
                                                                             'https://siku.com/public/images/other/sam1.png'
