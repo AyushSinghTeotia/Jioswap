@@ -97,10 +97,10 @@ export const SIKU: ChainTokenMap = {
     ),
     [ChainId.RINKEBY]: new Token(
         ChainId.RINKEBY,
-        '0x5C8b8F9c6Ba268C0b49A77C2A341d60D80130a18',
+        '0xAdA49c5556b0F36aB56E2103Ca8D87eD7CE9DEf7',
         18,
-        'SIKU',
-        'siku'
+        'JIO',
+        'Jiocoin'
     ),
     [ChainId.BSC]: new Token(
         ChainId.BSC,
