@@ -1,4 +1,4 @@
-import { CurrencyAmount, JSBI, Token, Trade } from 'quest-sikuswap-sdk'
+import { CurrencyAmount, JSBI, Token, Trade } from 'quest-jioswap-sdk'
 import UnsupportedCurrencyFooter from 'components/swap/UnsupportedCurrencyFooter'
 import { useIsTransactionUnsupported } from 'hooks/Trades'
 import React, { useCallback, useContext, useEffect, useMemo, useState } from 'react'

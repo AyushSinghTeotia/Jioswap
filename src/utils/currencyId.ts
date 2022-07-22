@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from 'quest-sikuswap-sdk'
+import { Currency, ETHER, Token } from 'quest-jioswap-sdk'
 
 export function currencyId(currency: Currency): string {
     if (currency === ETHER) return 'ETH'

@@ -1,4 +1,4 @@
-import { Trade } from 'quest-sikuswap-sdk'
+import { Trade } from 'quest-jioswap-sdk'
 import { useActiveWeb3React } from 'hooks/useActiveWeb3React'
 import React, { Fragment, memo, useContext } from 'react'
 import { ChevronRight } from 'react-feather'

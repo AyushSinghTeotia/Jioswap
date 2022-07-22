@@ -1,5 +1,5 @@
 import React from 'react'
-// import { PancakeV1Pair, PancakeV2Pair } from 'quest-sikuswap-sdk'
+// import { PancakeV1Pair, PancakeV2Pair } from 'quest-jioswap-sdk'
 
 export default function Test() {
     return <div></div>
@@ -81,7 +81,7 @@ export default function Test() {
     // return (
     //     <>
     //         <Helmet>
-    //             <title>Migrate | SikuSwap</title>
+    //             <title>Migrate | jioswap</title>
     //         </Helmet>
     //         <div>
     //             <div>

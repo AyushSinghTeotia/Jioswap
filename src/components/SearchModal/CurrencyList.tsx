@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, currencyEquals, ETHER, Token } from 'quest-sikuswap-sdk'
+import { Currency, CurrencyAmount, currencyEquals, ETHER, Token } from 'quest-jioswap-sdk'
 import { LightGreyCard } from 'components/CardLegacy'
 import QuestionHelper from 'components/QuestionHelper'
 import useTheme from 'hooks/useTheme'

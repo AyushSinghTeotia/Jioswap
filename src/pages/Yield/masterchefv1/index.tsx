@@ -35,7 +35,7 @@ export default function Yield(): JSX.Element {
     return (
         <>
             <Helmet>
-                <title>{i18n._(t`Yield`)} | SikuSwap</title>
+                <title>{i18n._(t`Yield`)} | jioswap</title>
                 <meta name="description" content="Farm SWTCH by staking LP (Liquidity Provider) tokens" />
             </Helmet>
             <div className="container max-w-2xl mx-auto">

@@ -1,4 +1,4 @@
-import { ChainId } from 'quest-sikuswap-sdk'
+import { ChainId } from 'quest-jioswap-sdk'
 import INCH from '../../assets/kashi/tokens/1inch-square.jpg'
 import AAVE from '../../assets/kashi/tokens/aave-square.jpg'
 // todo: move these into sushiswap/assets/square

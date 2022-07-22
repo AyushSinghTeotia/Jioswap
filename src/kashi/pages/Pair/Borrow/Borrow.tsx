@@ -1,5 +1,5 @@
 import React, { useContext, useState } from 'react'
-import { WETH } from 'quest-sikuswap-sdk'
+import { WETH } from 'quest-jioswap-sdk'
 import { useActiveWeb3React } from 'hooks/useActiveWeb3React'
 import { ApprovalState, useApproveCallback } from 'hooks/useApproveCallback'
 import { Alert, Button, Checkbox, Dots } from 'components'

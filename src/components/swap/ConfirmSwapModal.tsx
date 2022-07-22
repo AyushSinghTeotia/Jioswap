@@ -1,4 +1,4 @@
-import { currencyEquals, Trade } from 'quest-sikuswap-sdk'
+import { currencyEquals, Trade } from 'quest-jioswap-sdk'
 import React, { useCallback, useMemo } from 'react'
 import { useActiveWeb3React } from '../../hooks/useActiveWeb3React'
 import TransactionConfirmationModal, {

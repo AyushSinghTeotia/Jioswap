@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Token, TokenAmount } from 'quest-sikuswap-sdk'
+import { ChainId, JSBI, Token, TokenAmount } from 'quest-jioswap-sdk'
 import { BigNumber, ethers } from 'ethers'
 import { computeUniCirculation } from './computeUniCirculation'
 

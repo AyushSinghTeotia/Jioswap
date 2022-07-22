@@ -1,4 +1,4 @@
-import { ChainId } from 'quest-sikuswap-sdk'
+import { ChainId } from 'quest-jioswap-sdk'
 
 const TOKEN_ICONS: { [chainId in ChainId]?: any } = {
     [ChainId.MAINNET]: {

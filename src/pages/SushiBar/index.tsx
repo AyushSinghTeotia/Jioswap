@@ -6,7 +6,7 @@ import InfoCard from './InfoCard'
 import APRCard from './APRCard'
 import StakeCard from './StakeCard'
 import BalanceCard from './BalanceCard'
-import { ChainId } from 'quest-sikuswap-sdk'
+import { ChainId } from 'quest-jioswap-sdk'
 import { SUSHI, XSUSHI, SIKU, xSIKU } from '../../constants'
 import useTokenBalance from '../../hooks/useTokenBalance'
 
@@ -63,7 +63,7 @@ export default function XSushi() {
     return (
         <>
             <Helmet>
-                <title>xSiku | SikuSwap</title>
+                <title>xSiku | jioswap</title>
             </Helmet>
             <div className="flex flex-col w-full min-h-fitContent">
                 <div className="flex mb-6 justify-center">

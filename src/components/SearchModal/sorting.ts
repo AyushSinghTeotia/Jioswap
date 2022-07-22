@@ -1,4 +1,4 @@
-import { Token, TokenAmount } from 'quest-sikuswap-sdk'
+import { Token, TokenAmount } from 'quest-jioswap-sdk'
 import { useMemo } from 'react'
 import { useAllTokenBalances } from '../../state/wallet/hooks'
 

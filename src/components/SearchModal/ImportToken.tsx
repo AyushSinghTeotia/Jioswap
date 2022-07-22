@@ -1,4 +1,4 @@
-import { Currency, Token } from 'quest-sikuswap-sdk'
+import { Currency, Token } from 'quest-jioswap-sdk'
 import { ButtonPrimary } from 'components/ButtonLegacy'
 import Card from 'components/Card'
 import { AutoColumn } from 'components/Column'

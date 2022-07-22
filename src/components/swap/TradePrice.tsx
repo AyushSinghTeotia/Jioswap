@@ -1,4 +1,4 @@
-import { Price } from 'quest-sikuswap-sdk'
+import { Price } from 'quest-jioswap-sdk'
 import React, { useContext } from 'react'
 import { Repeat } from 'react-feather'
 import { Text } from 'rebass'

@@ -1,4 +1,4 @@
-import { ChainId, Token, TokenAmount } from 'quest-sikuswap-sdk'
+import { ChainId, Token, TokenAmount } from 'quest-jioswap-sdk'
 import { useBoringHelperContract, useDashboardContract, useQuickSwapFactoryContract } from 'hooks/useContract'
 import { useCallback, useEffect, useRef, useState } from 'react'
 

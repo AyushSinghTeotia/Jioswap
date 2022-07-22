@@ -1,4 +1,4 @@
-import { Token, TokenAmount, WETH } from 'quest-sikuswap-sdk'
+import { Token, TokenAmount, WETH } from 'quest-jioswap-sdk'
 import { ApprovalState, useApproveCallback } from 'hooks/useApproveCallback'
 import { BENTOBOX_ADDRESS } from 'kashi'
 import { Button } from 'components'

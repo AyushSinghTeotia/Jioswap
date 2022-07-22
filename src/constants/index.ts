@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Percent, Token, WETH } from 'quest-sikuswap-sdk'
+import { ChainId, JSBI, Percent, Token, WETH } from 'quest-jioswap-sdk'
 import { fortmatic, injected, lattice, portis, torus, walletconnect, walletlink } from '../connectors'
 
 import { AbstractConnector } from '@web3-react/abstract-connector'

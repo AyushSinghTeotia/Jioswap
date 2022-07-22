@@ -1,4 +1,4 @@
-import { Token, TokenAmount } from 'quest-sikuswap-sdk'
+import { Token, TokenAmount } from 'quest-jioswap-sdk'
 import { ethers } from 'ethers'
 
 export default interface LPToken {

@@ -1,5 +1,5 @@
 import { BigNumber } from '@ethersproject/bignumber'
-import { TokenAmount } from 'quest-sikuswap-sdk'
+import { TokenAmount } from 'quest-jioswap-sdk'
 import { ButtonPrimary } from 'components/ButtonLegacy'
 import { LightCard } from 'components/CardLegacy'
 import { AutoColumn } from 'components/Column'
@@ -155,7 +155,7 @@ export default function ClaimModal() {
         <>
             {' '}
             <Helmet>
-                <title>{i18n._(t`Vesting`)} | SikuSwap</title>
+                <title>{i18n._(t`Vesting`)} | jioswap</title>
             </Helmet>
             <PageWrapper>
                 <>

@@ -1,6 +1,6 @@
 import { BigNumber } from '@ethersproject/bignumber'
 import { AddressZero } from '@ethersproject/constants'
-import { ChainId, JSBI, Percent, Token, TokenAmount } from 'quest-sikuswap-sdk'
+import { ChainId, JSBI, Percent, Token, TokenAmount } from 'quest-jioswap-sdk'
 import {
     basisPointsToPercent,
     calculateGasMargin,

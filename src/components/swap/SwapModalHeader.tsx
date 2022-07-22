@@ -1,4 +1,4 @@
-import { Trade, TradeType } from 'quest-sikuswap-sdk'
+import { Trade, TradeType } from 'quest-jioswap-sdk'
 import React, { useContext, useMemo } from 'react'
 import { AlertTriangle, ArrowDown } from 'react-feather'
 import { Text } from 'rebass'
