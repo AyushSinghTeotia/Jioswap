@@ -49,7 +49,7 @@ function AppBar(): JSX.Element {
                             <div className="flex items-center justify-between h-16">
                                 <div className="flex items-center">
                                     <div className="flex-shrink-0">
-                                        <img src={Logo} alt="Sushi" className="h-10 w-auto" />
+                                        <img src={Logo} alt="Sushi" className="h-20 w-35" />
                                     </div>
                                     <div className="hidden sm:block sm:ml-4">
                                         <div className="flex space-x-2">
@@ -273,15 +273,15 @@ function AppBar(): JSX.Element {
                                                             }}
                                                         >
                                                             <img
-                                                                src={`${process.env.PUBLIC_URL}/images/tokens/xsamk-square.png`}
-                                                                alt="Switch Network"
-                                                                style={{
-                                                                    minWidth: 66,
-                                                                    minHeight: 46,
-                                                                    maxWidth: 66,
-                                                                    maxHeight: 46
-                                                                }}
-                                                                className="object-contain"
+                                                                // src={`${process.env.PUBLIC_URL}/images/tokens/xsamk-square.png`}
+                                                                // alt="Switch Network"
+                                                                // style={{
+                                                                //     minWidth: 66,
+                                                                //     minHeight: 46,
+                                                                //     maxWidth: 66,
+                                                                //     maxHeight: 46
+                                                                // }}
+                                                                // className="object-contain"
                                                             />
                                                         </div>
                                                     </QuestionHelper>
