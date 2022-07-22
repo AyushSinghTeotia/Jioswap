@@ -32,7 +32,7 @@ module.exports = {
             'dark-500': '#223D5E',
 
             // TODO: bad... these are causing issues with text colors
-            // 'high-emphesis': '#E3E3E3',
+            // 'high-emphesis': '#2dabd4',
             primary: '#BFBFBF',
             secondary: '#FFFFFF',
             'low-emphesis': '#575757'
@@ -138,7 +138,7 @@ module.exports = {
                 'low-emphesis': '#575757',
                 primary: '#BFBFBF',
                 secondary: '#FFFFFF',
-                'high-emphesis': '#E3E3E3'
+                'high-emphesis': '#2dabd4'
             },
             backgroundColor: {
                 ...defaultTheme.backgroundColor,

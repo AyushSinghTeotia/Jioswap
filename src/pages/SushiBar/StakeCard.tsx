@@ -35,7 +35,7 @@ const sendTx = async (txFunc: () => Promise<any>): Promise<boolean> => {
 }
 
 const StyledNumericalInput = styled(NumericalInput)`
-    caret-color: #e3e3e3;
+    caret-color: #2dabd4;
 `
 
 const tabStyle =
